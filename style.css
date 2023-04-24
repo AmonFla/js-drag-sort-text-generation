@@ -1,0 +1,8 @@
+.app-dnd {  height: 141px; left: 100px; top: 645px; width: 657px; }
+.drop-area { background: #ccc; height: 73px; line-height: 70px; margin: 0 0 9px; width: 550px; }
+.drop-area > .drag-item { cursor: no-drop; }
+.drag-items { font-size: 0; }
+.drag-item { background: #eb0089; border-radius: 7px; box-shadow: 0 5px #b032a7; cursor: move; display: inline-block; font-size: 22px; height: 42px; line-height: 46px; margin: 0 2px; position: relative; text-align: center; min-width: 32px; }
+.drag-item-off { cursor: no-drop; opacity: 0.6; }
+.drag-del { background: #000; border-radius: 50%; display: block; font-size: 9px; height: 19px; line-height: 20px; right: 6px; top: -8px; width: 19px; }
+.custom-div {margin: 0 0 9px;}
